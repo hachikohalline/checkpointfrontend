@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body {
+    text-align: center;
+    background-image: url(https://bit.ly/3gU6ptY);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #cccccc;
+    color: white;
+   }
+
+   #principal{
+    font-family: 'Lobster', cursive;
+    color: black;
+    background-color: aliceblue;
+   }
+
+   #foco {
+    width: 1200px;
+    margin: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+   }
+
+   #curiosidades{
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
+    color: white;
+
+   }
+
+   #lista{
+    color: black;
+    background-color: aliceblue;
+    list-style-type: none;
+   }
+
+   .rodape{
+    box-align: center;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    object-fit: contain;
+    margin-right: 30px;
+    border-radius: 1px solid ;
+    float: left;
+    background-color: aliceblue;
+   }
+
+   #icones{
+    width: 400px; 
+    margin-left: auto;
+    margin-right: auto; 
+   }
